@@ -1,1 +1,2 @@
-# stone-boy
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
